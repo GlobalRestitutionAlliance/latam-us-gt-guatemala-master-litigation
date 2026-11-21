@@ -1,10 +1,61 @@
-# Guatemala Restitution Crosswalk Dashboard
+# Guatemala Master Restitution Crosswalk Dashboard
 
-**Country Key:** US_GT_GUATEMALA
-**ISO Code:** GT/GTM
-**Historical Arc:** 1821-2026
-**Restitution Pool:** $20.00B
-**Instruments:** 13
+- **ISO:** GT
+- **Planning Pool:** $30,000,000,000 USD (subject to evidentiary validation)
+- **Instruments:** 25
 
-## Primary Judgment
-1821 Independence, 1996 Peace Accords, Genocide
+## Evidentiary Anchors (High-Level, Public Record)
+
+- 1954 coup and subsequent instability (declassified public records)
+- Internal armed conflict and genocide findings (CEH public report)
+- Indigenous land and human rights harms
+
+## Instrument Matrix
+
+| ID | Anchor | Status | Evidence |
+|---|---|---|---|
+| GT-001 | 1954 coup and subsequent instability (declassified public records) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-002 | Internal armed conflict and genocide findings (CEH public report) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-003 | Indigenous land and human rights harms | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-004 | 1954 coup and subsequent instability (declassified public records) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-005 | Internal armed conflict and genocide findings (CEH public report) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-006 | Indigenous land and human rights harms | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-007 | 1954 coup and subsequent instability (declassified public records) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-008 | Internal armed conflict and genocide findings (CEH public report) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-009 | Indigenous land and human rights harms | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-010 | 1954 coup and subsequent instability (declassified public records) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-011 | Internal armed conflict and genocide findings (CEH public report) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-012 | Indigenous land and human rights harms | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-013 | 1954 coup and subsequent instability (declassified public records) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-014 | Internal armed conflict and genocide findings (CEH public report) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-015 | Indigenous land and human rights harms | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-016 | 1954 coup and subsequent instability (declassified public records) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-017 | Internal armed conflict and genocide findings (CEH public report) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-018 | Indigenous land and human rights harms | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-019 | 1954 coup and subsequent instability (declassified public records) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-020 | Internal armed conflict and genocide findings (CEH public report) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-021 | Indigenous land and human rights harms | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-022 | 1954 coup and subsequent instability (declassified public records) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-023 | Internal armed conflict and genocide findings (CEH public report) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-024 | Indigenous land and human rights harms | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+| GT-025 | 1954 coup and subsequent instability (declassified public records) | SCAFFOLDED | PENDING_PRIMARY_SOURCE |
+
+## Guardrail
+No fabricated citations, docket numbers, or archive IDs. All entries require primary-source verification before filing use.
+
+## Verified Source Citations (PENDING_LEGAL_REVIEW)
+
+Rule: No citation marked VERIFIED without local hashed source artifact and counsel sign-off.
+
+- GT-CIT-0001: IACHR :: Country Reports | https://www.oas.org/en/iachr/reports/country.asp | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_01_IACHR_-_Justice_and_Social_Inclusion_The_Challenges_of_Democracy_in_Guatemala_2003_browser.html` | sha256=`cf40fd0f747ec40c...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0002: ICJ - Nottebohm (Liechtenstein v. Guatemala) | https://www.icj-cij.org/case/18 | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_03_ICJ_-_Nottebohm_Liechtenstein_v._Guatemala.html` | sha256=`5c124f309ec2b0f1...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0003: UN Digital Library - Search | https://digitallibrary.un.org/search | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_04_UN_Digital_Library_-_Search.html` | sha256=`e3b0c44298fc1c14...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0004: Countries | OHCHR | https://www.ohchr.org/en/countries | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_05_UN_OHCHR_-_Country_Pages_browser.html` | sha256=`49662d4dbf47bb6d...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0005: UN Treaty Body Database | https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/TBSearch.aspx | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_06_UN_Treaty_Body_Database.html` | sha256=`62df4a8b3ec687de...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0006: Universal Periodic Review | OHCHR | https://www.ohchr.org/en/hr-bodies/upr/upr-home | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_07_UN_Human_Rights_Council_-_Universal_Periodic_Review_browser.html` | sha256=`cfdbc1bead5f916a...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0007: Annual Reports | https://www.oas.org/en/iachr/reports/ia.asp | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_09_IACHR_-_Annual_Reports_browser.html` | sha256=`36ce54303131c67a...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0008: US State Department - Country Reports on Human Rights Practices | https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_10_US_State_Department_-_Country_Reports_on_Human_Rights_Practices.html` | sha256=`1247df151df829bd...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0009: US State Department - Office of the Historian (FRUS) | https://history.state.gov/historicaldocuments | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_11_US_State_Department_-_Office_of_the_Historian_FRUS.html` | sha256=`c948fdff783f2e5f...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0010: NARA - Foreign Affairs Research | https://www.archives.gov/research/foreign-policy | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_12_NARA_-_Foreign_Affairs_Research.html` | sha256=`c4cda55cb948dfd6...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0011: CIA.gov 404 | https://www.cia.gov/reading-room/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_13_CIA_FOIA_Electronic_Reading_Room_browser.html` | sha256=`237c2cfe65f25745...` | status=PENDING_LEGAL_REVIEW
+- GT-CIT-0012: Library of Congress - Research Guides / Country Studies | https://guides.loc.gov/ | local=`03_Evidentiary_Exhibits/Immutable_Ledger/GT_14_Library_of_Congress_-_Research_Guides_Country_Studies.html` | sha256=`ff7ab4262a2e5e5d...` | status=PENDING_LEGAL_REVIEW

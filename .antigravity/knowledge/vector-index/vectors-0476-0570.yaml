@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Guatemala
+  iso: GT
+  block: 6
+  range: [476,570]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "GT-V-0476"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0477"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0478"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0479"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0480"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0481"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0482"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0483"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0484"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0485"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0486"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0487"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0488"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0489"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0490"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0491"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0492"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0493"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0494"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0495"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0496"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0497"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0498"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0499"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0500"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0501"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0502"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0503"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0504"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0505"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0506"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0507"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0508"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0509"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0510"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0511"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0512"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0513"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0514"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0515"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0516"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0517"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0518"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0519"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0520"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0521"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0522"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0523"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0524"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0525"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0526"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0527"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0528"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0529"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0530"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0531"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0532"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0533"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0534"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0535"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0536"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0537"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0538"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0539"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0540"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0541"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0542"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0543"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0544"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0545"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0546"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0547"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0548"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0549"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0550"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0551"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0552"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0553"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0554"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0555"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0556"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0557"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0558"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0559"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0560"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0561"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0562"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0563"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0564"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0565"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0566"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0567"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0568"
+      anchor: "1954 coup and subsequent instability (declassified public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0569"
+      anchor: "Internal armed conflict and genocide findings (CEH public report)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "GT-V-0570"
+      anchor: "Indigenous land and human rights harms"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true

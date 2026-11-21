@@ -1,0 +1,30 @@
+{
+  "url": "https://www.icj-cij.org/case/18",
+  "final_url": "https://www.icj-cij.org/case/18",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 84195,
+  "sha256": "5c124f309ec2b0f1a95896aebc72dbf674fddb4ca5af79c517035b66e040b0b0",
+  "captured_at": "2026-11-21T18:28:34.798177Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Guatemala",
+  "iso": "GT",
+  "title": "ICJ - Nottebohm (Liechtenstein v. Guatemala)",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 18:31:14 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Server": "cloudflare",
+    "Cache-Control": "public, max-age=3600",
+    "content-language": "en",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "vary": "Cookie,Accept-Encoding",
+    "content-security-policy": "default-src 'self'; connect-src 'self' https://cloudflareinsights.com/cdn-cgi/rum; font-src 'self' fonts.gstatic.com cdnjs.cloudflare.com; frame-src 'self' cdnapisec.kaltura.com https://www.google.com/recaptcha/ https://recaptcha.google.com/recaptcha/; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://static.cloudflareinsights.com/ cdn.jsdelivr.net https://cdnjs.cloudflare.com mdbootstrap.com; style-src 'self' 'unsafe-inline' cdn.jsdelivr.net cdnjs.cloudflare.com fonts.googleapis.com https://cdnjs.cloudflare.com mdbootstrap.com use.fontawesome.com; frame-ancestors 'self'",
+    "last-modified": "Thu, 19 Nov 2026 23:41:51 GMT",
+    "cf-cache-status": "EXPIRED",
+    "CF-RAY": "a5e1c52cd8ed3cea-MIA"
+  }
+}
