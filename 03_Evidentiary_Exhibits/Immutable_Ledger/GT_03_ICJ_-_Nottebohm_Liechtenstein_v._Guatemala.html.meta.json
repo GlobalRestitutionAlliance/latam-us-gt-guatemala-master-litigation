@@ -26,5 +26,10 @@
     "last-modified": "Thu, 19 Nov 2026 23:41:51 GMT",
     "cf-cache-status": "EXPIRED",
     "CF-RAY": "a5e1c52cd8ed3cea-MIA"
-  }
+  },
+  "http_status": 200,
+  "fetched_at": "2026-11-21T18:28:34.798177Z",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
 }
